@@ -31,5 +31,6 @@
 
 <p>&nbsp;</p>
 
-![](https://ibb.co/6PJ3tmZ)
-![](https://ibb.co/ZHNMdd7)
+## Gambar Pendukung
+[Ilustrasi 1](https://ibb.co/6PJ3tmZ)
+[Ilustrasi 2](https://ibb.co/ZHNMdd7)
